@@ -11,7 +11,6 @@ _Job board niches to help you find inspiration_
 * [Japan Dev](https://japan-dev.com/) - Software Developer Jobs in Japan
 * [PlumbingJobs.com](https://plumbingjobs.com/) - Serving the plumbing industry one job at a time.
 * [AI Jobs](https://www.aijobs.com/) - The official AI jobs board marketplace to discover the best career opportunities in Artificial Intelligence.
-* [PlumbingJobs.com](https://plumbingjobs.com/) - Serving the plumbing industry one job at a time.
 * [Online Jobs PH](https://onlinejobsph.com/) - The job board for virtual workers in the Philippines.
 ### Job Board Tools
 ___
