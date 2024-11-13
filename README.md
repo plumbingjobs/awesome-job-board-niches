@@ -13,7 +13,7 @@ _Job board niches to help you find inspiration_
 * [AI Jobs](https://www.aijobs.com/) - The official AI jobs board marketplace to discover the best career opportunities in Artificial Intelligence.
 * [PlumbingJobs.com](https://plumbingjobs.com/) - Serving the plumbing industry one job at a time.
 * [Online Jobs PH](https://onlinejobsph.com/) - The job board for virtual workers in the Philippines.
-### Top Ranked Job Board Tools
+### Job Board Tools
 ___
 _Tools to help you build your job board_
 * [JBoard](https://jboard.io/) - One platform with all the features you need to build, run, and grow your job board.
@@ -24,6 +24,14 @@ _Tools to help you build your job board_
 * [Job Board Fire](https://www.jobboardfire.com/) - Launch a job board your community will love.
 * [JobBoard.io](https://jobboard.io/) - No software to install, easy to use job board platform.
 * [JobBoardSearch](https://jobboardsearch.com/) - Market your job board to job seekers instantly.
+### Job Board Articles & Advice
+___
+_Information to inspire you build your job board_
+* [RanchWork.com Story & Revenue](https://partnerkin.com/en/blog/case_study/job_board_websites) - How Peter Askew makes $7.500 per month with a job board website.
+* [Japan Dev Story & Revenue](https://japan-dev.com/blog/how-and-why-i-built-japan-dev) - How Eric Turner made $62,197 revenue in 1 month with his job board site.
+* [RemoteOK Revenue](https://news.ycombinator.com/item?id=12067113) - How Pieter made $200k with a remote worker focused job board.
+* [JobBoardSearch Story & Revenue](https://hackernoon.com/my-boring-and-simple-job-boards-website-passed-$40k-in-revenue) - How Rod made $40k in revenue with a boring job board directory website.
+
 
 
 
