@@ -29,7 +29,7 @@ ___
 _Information to inspire you build your job board_
 * [RanchWork.com Story & Revenue](https://partnerkin.com/en/blog/case_study/job_board_websites) - How Peter Askew makes $7.500 per month with a job board website.
 * [Japan Dev Story & Revenue](https://japan-dev.com/blog/how-and-why-i-built-japan-dev) - How Eric Turner made $62,197 revenue in 1 month with his job board site.
-* [RemoteOK Revenue](https://news.ycombinator.com/item?id=12067113) - How Pieter made $200k with a remote worker focused job board.
+* [RemoteOK Revenue](https://news.ycombinator.com/item?id=12067113) - How Pieter Levels made $400k in revenue with a remote worker focused job board.
 * [JobBoardSearch Story & Revenue](https://hackernoon.com/my-boring-and-simple-job-boards-website-passed-$40k-in-revenue) - How Rod made $40k in revenue with a boring job board directory website.
 
 
