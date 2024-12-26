@@ -10,6 +10,7 @@ _Job board niches to help you find inspiration_
 * [Remote OK](https://remoteok.com/) - The #1 Remote Worker Job Board.
 * [Japan Dev](https://japan-dev.com/) - Software Developer Jobs in Japan
 * [PlumbingJobs.com](https://plumbingjobs.com/) - Serving the plumbing industry one job at a time.
+* [BlueCollarJobs.com](https://bluecollarjobs.com/) - Serving the blue collar industry one job at a time.
 * [AI Jobs](https://www.aijobs.com/) - The official AI jobs board marketplace to discover the best career opportunities in Artificial Intelligence.
 * [Online Jobs PH](https://onlinejobsph.com/) - The job board for virtual workers in the Philippines.
 ### Job Board Tools
